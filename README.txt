@@ -1,5 +1,8 @@
 
 
+# Paint-Application
+Paint Application using the basic computer graphics algorithms
+
 - Demonstration video
 
 - Project Folder
@@ -11,13 +14,3 @@ We implemented the algorithms from scratch where we used:
 	*Bresenham's algorithm for line drawing
 	* Using the DrawLine function for triangle , square and rectangle drawing
 
-
-
-Team Members:
-
-1- Beshara Safwat
-2- Sara Ayman
-3- Sara Tarek
-4- Aisha Amr
-5- Abdelrahman Sameh
-6- Gufran Mohamed
