@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\OpenGl\OpenGl\main.cpp(350,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Admin\Desktop\OpenGl\OpenGl\main.cpp(374,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\Desktop\OpenGl\OpenGl\main.cpp(401,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\Desktop\OpenGl\OpenGl\main.cpp(421,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\Desktop\OpenGl\OpenGl\main.cpp(445,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\Desktop\OpenGl\OpenGl\main.cpp(467,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Admin\Desktop\OpenGl\OpenGl\main.cpp(483,26): warning C4101: 'scalling_value': unreferenced local variable
+C:\Users\Admin\Desktop\OpenGl\OpenGl\main.cpp(483,13): warning C4101: 'new_x': unreferenced local variable
+C:\Users\Admin\Desktop\OpenGl\OpenGl\main.cpp(483,20): warning C4101: 'new_y': unreferenced local variable
+  OpenGl.vcxproj -> C:\Users\Admin\Desktop\OpenGl\Debug\OpenGl.exe
