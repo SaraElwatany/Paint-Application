@@ -1,20 +1,4 @@
-2 folders included:
 
-								** CG Task (js & html)
-
-
-- Demonstration video
-
-- Project Folder
-
-Options: 
-Rotation , translation and scaling
-
-           ---------------------------------------------------------------------------------------------------------------------
-
-
-
-							**OpenGl (C++ using OpenGL library)
 
 - Demonstration video
 
