@@ -1,9 +1,11 @@
 # Paint-Application
-Paint Application using the basic computer graphics algorithms
+
+Paint Application using the basic computer graphics algorithms as Bresenham's algorithm for line
 
 - Demonstration video
 
 - Project Folder
+
 
 Options: Drawing Line , Drawing Circle , Drawing square , Drawing rectangle , Drawing triangle , Rotation ,Translation and Scaling
 
